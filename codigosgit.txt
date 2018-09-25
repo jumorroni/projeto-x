@@ -1,0 +1,5 @@
+git clone -> Traz o repositorio da nuvem para o diretorio local 
+
+git status -> Ciclo de estado dos meus arquivos 
+
+git add -> Mostra para o git quais arquivos ele deve versionar
